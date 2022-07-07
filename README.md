@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Destine-Akinboyewa
 - 👀 I’m interested in Data Science, Machine Learning, and Artificial Intelligence
-- 🌱 I’m currently learning HTML, CSS, and Django
+- 🌱 I’m currently learning HTML, CSS, and the JavaScript
 - 💞️ I’m looking to collaborate on Data Science projects
 - 📫 How to reach me www.linkedin.com/in/destineakinboyewa and didodestine@gmail.com
 
